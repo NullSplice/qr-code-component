@@ -44,10 +44,3 @@ I’m still a bit confused about which units are best for making layouts adapt t
 
 - [The Odin Project](https://www.theodinproject.com/)  
 - [freeCodeCamp](https://www.freecodecamp.org/)  
-
----
-
-## 👤 Author
-
-- GitHub – [your-username](https://github.com/your-username)  
-- Frontend Mentor – [@your-username](https://www.frontendmentor.io/profile/your-username)  
